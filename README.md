@@ -4,7 +4,7 @@ This is a python project for PD LGD EAD model of lending club dataset
 
 Credit Risk Modelling | Calculation of PD, LGD, EDA and EL with Machine Learning in Python
 
-Project 
+#Project 
 
 The goal is to build a credit risk model by using Loan Data to provide a scorecard for a daily use as well as a pipeline to calculate exposure loss.
 
@@ -19,7 +19,7 @@ Calculate the exposure loss after obtaining all models
 Check the models if they are still doing good with the recent credit risk modeling.
 Please note that this notebook includes my revisions/additions to the credit risk course on 365 Learning (https://365datascience.com/courses/credit-risk-modeling-in-python/)
 
-Datasets
+#Datasets
 
 The dataset comes from Lending Club. It is a large US peer-to-peer lending company. Different versions of this dataset existing, here the data was taken from a version available on kaggle.com
 
@@ -47,7 +47,7 @@ Metric: Accuracy: 0.658
 
 Please note that further steps can be taken forward to improve the performance of models.
 
-Deliverables
+#Deliverables
 
 Scorecard, easy to interpret in comliance with the requirements
 Dataframe to test the impact of cut off rates on the number of accepted borrowers for credit
@@ -61,14 +61,11 @@ Notebooks
 3 - A notebook on modelling loss given default (LGD), exposure at default (EAD) and Expected Loss (EL)
 4 - A notebook on checking population stability index
 
-Technologies
+#Technologies
 
 Project is created with:
 
 Python 3.11
-
 Jupyter Notebook 6.3.0
-
 Python libraries (see /requirements.txt)
-
 VSCode 1.135
