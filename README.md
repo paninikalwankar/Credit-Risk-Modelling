@@ -65,7 +65,7 @@ Notebooks
 
 Project is created with:
 
-Python 3.11
+Python 3.14
 Jupyter Notebook 6.3.0
 Python libraries (see /requirements.txt)
 VSCode 1.135
