@@ -12,7 +12,7 @@ Here is a step-by-step instruction as also in compliance with the Basel II requi
 
 Preprocessing - Converting columns into dummy variables by fine and coarse classing
 Calculate the PD model with logistic regression
-Based on PD model, provide a practical scorecard in csv format
+Based on PD model provide a practical scorecard in csv format
 Construct LGD model with beta regression
 Build EAD model with linear regression
 Calculate the exposure loss after obtaining all models
